@@ -27,7 +27,7 @@ public class Mythread2 implements Runnable {
 
 }
 ```
->>ThreadExam1 (My thread2를 활용할 클래스)
+>ThreadExam1 (My thread2를 활용할 클래스)
 ```java
 package Java.exam;
 
