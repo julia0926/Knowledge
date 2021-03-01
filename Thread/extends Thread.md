@@ -1,5 +1,5 @@
 ## extends Thread 
-
+: Thread 클래스 이용
 >My thread.java (thread를 상속한 클래스)
 ```java
 package Java.exam;
